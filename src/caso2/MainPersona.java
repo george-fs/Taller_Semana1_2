@@ -11,5 +11,4 @@ public class MainPersona {
 		persona2.mostrarDatos();
 		System.out.println("---------------------------");
 	}
-
 }
