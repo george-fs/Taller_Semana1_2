@@ -1,3 +1,5 @@
+package caso1;
+
 import java.util.Scanner;
 
 public class CalculadoraBasica {
